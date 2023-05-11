@@ -22,7 +22,7 @@ const Container = styled.div`
     margin-right: 2rem;
   }
   a:hover {
-    color: #853cc0;
+    color: #541488;
   }
 `;
 
