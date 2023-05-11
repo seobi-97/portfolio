@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 const Container = styled.div`
   width: 100%;
-  height: 50px;
+  height: 7.3vh;
   display: flex;
   position: fixed;
   top: 0;
@@ -20,6 +20,9 @@ const Container = styled.div`
   li {
     float: left;
     margin-right: 2rem;
+  }
+  a:hover {
+    color: #853cc0;
   }
 `;
 
